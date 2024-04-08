@@ -32,3 +32,15 @@ conda activate labelme
 ```
 
 来启动它。
+
+#Citation
+
+```
+    AutoLabelImg,
+
+    author = {Wu Fan},
+
+    year = {2020},
+
+    url = {\url{https://https://github.com/wufan-tb/AutoLabelImg}}
+```
