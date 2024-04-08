@@ -14,7 +14,21 @@
 
 请将权重置于pytorch_yolov5\weights\中。
 
-使用方法：
+使用方法
 ```
 python labelImg.py
-``` 
+```
+
+你可以通过拷贝我的conda来配置环境，请修改文件夹下的**environment.yml**文件的最后一行：**prefix: C:\Users\adamin\.conda\envs\labelme**为你的conda地址。如果你不知道conda的位置，请通过where conda(Windows)或whereis conda(Linux)来查看conda位置。之后，通过指令
+
+```
+conda env create -f environment.yml
+```
+
+来安装对应的环境，并通过
+
+```
+conda activate labelme
+```
+
+来启动它。
