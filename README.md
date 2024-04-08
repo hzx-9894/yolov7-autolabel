@@ -12,7 +12,7 @@
 
 仅支持目前（24年4月）yolov7的最新版本v1.13.1，向下和向上兼容性不保证。
 
-请将权重置于pytorch_yolov5\weights\中。
+**（！重要！）请将权重置于pytorch_yolov5\weights\中。**
 
 使用方法
 ```
