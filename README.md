@@ -36,9 +36,9 @@ conda activate labelme
 #Citation
 
 ```
-AutoLabelImg,
-author = {Wu Fan},
-year = {2020},
-url = {\url{https://https://github.com/wufan-tb/AutoLabelImg}}
-
+{   AutoLabelImg,
+    author = {Wu Fan},
+    year = {2020},
+    url = {\url{https://https://github.com/wufan-tb/AutoLabelImg}}
+}
 ```
